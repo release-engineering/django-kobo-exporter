@@ -92,9 +92,9 @@ iniconfig==2.0.0 \
     --hash=sha256:2d91e135bf72d31a410b17c16da610a82cb55f6b0477d1a902134b24a455b8b3 \
     --hash=sha256:b6a85871a79d2e3b22d2d1b94ac2824226a63c6b741c88f7ae975f18b6778374
     # via pytest
-isort==5.13.2 \
-    --hash=sha256:48fdfcb9face5d58a4f6dde2e72a1fb8dcaf8ab26f95ab49fab84c2ddefb0109 \
-    --hash=sha256:8ca5e72a8d85860d5a3fa69b8745237f2939afe12dbf656afbcb47fe72d947a6
+isort==6.0.0 \
+    --hash=sha256:567954102bb47bb12e0fae62606570faacddd441e45683968c8d1734fb1af892 \
+    --hash=sha256:75d9d8a1438a9432a7d7b54f2d3b45cad9a4a0fdba43617d9873379704a8bdf1
     # via pylint
 kobo==0.39.0 \
     --hash=sha256:45302a8d819ae0b47e0a76d3223ee64943d4e7c988379b1f8ceff3fc99ab7a85 \
@@ -120,9 +120,9 @@ prometheus-client==0.21.1 \
     --hash=sha256:252505a722ac04b0456be05c05f75f45d760c2911ffc45f2a06bcaed9f3ae3fb \
     --hash=sha256:594b45c410d6f4f8888940fe80b5cc2521b305a1fafe1c58609ef715a001f301
     # via -r test-requirements.in
-pylint==3.3.3 \
-    --hash=sha256:07c607523b17e6d16e2ae0d7ef59602e332caa762af64203c24b41c27139f36a \
-    --hash=sha256:26e271a2bc8bce0fc23833805a9076dd9b4d5194e2a02164942cb3cdc37b4183
+pylint==3.3.4 \
+    --hash=sha256:289e6a1eb27b453b08436478391a48cd53bb0efb824873f949e709350f3de018 \
+    --hash=sha256:74ae7a38b177e69a9b525d0794bd8183820bfa7eb68cc1bee6e8ed22a42be4ce
     # via -r test-requirements.in
 pytest==8.3.4 \
     --hash=sha256:50e16d954148559c9a74109af1eaf0c945ba2d8f30f0a3d3335edde19788b6f6 \
